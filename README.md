@@ -1,9 +1,31 @@
-# My Portfolio
-Data Analysis projects from Practicum 100 program
+# Forecast and Prediction
 
-| Project Name                                                                                        | Description         | Libraries Used|
-:-----------------------------------------------------------------------------------------------------|:--------------------|:--------------:|
-| [Data Preprocessing](https://github.com/idangold1212/Portfolio/tree/data-preprocessing)| My project is to prepare a report for a bank’s loan division. I need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan        | pandas
-| [Integrated_project1](https://github.com/idangold1212/Portfolio/tree/intergrated_project1)                                                                                                  |I'm going to preform analysis based on data of games sales available from open source. This will help me identify patterns that determine whether a game succeeds or not, spot potential big winners, and plan advertising campaigns.| Pandas, Matplotlib, Seaborn, Stats, Numpy
-|[Integrated_Project2](https://github.com/idangold1212/Portfolio/tree/integrated_project2) | I work at a startup that sells food products and I need to investigate user behavior for the company's app. | Pandas, Numpy, Math, Stats, Seaborn, Plotly, Matplotlib
-|[Final_Project](https://github.com/idangold1212/Portfolio/tree/final_project)| E-Commerce product range analysis | Pandas, Numpy, Matplotlib, Seaborn, NLTK, Sklearn
+**Brief:**
+
+A gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
+One of the most common problems gyms and other services face is customer churn.
+In order to fight churn, Model Fitness has digitized a number of its customer profiles.
+
+**Data Description:**
+
+- 'Churn' — the fact of churn for the month in question
+- Current dataset fields:
+    -User data for the preceding month
+    - 'gender'
+    - 'Near_Location' — whether the user lives or works in the neighborhood where the gym is located
+    - 'Partner' — whether the user is an employee of a partner company (the gym has partner companies whose employees get discounts; in those cases the gym stores                       information on customers' employers)
+    - Promo_friends — whether the user originally signed up through a "bring a friend" offer (they used a friend's promo code when paying for their first membership)
+    - 'Phone' — whether the user provided their phone number
+    - 'Age'
+    - 'Lifetime' — the time (in months) since the customer first came to the gym
+        Data from the log of visits and purchases and data on current membership status
+    - 'Contract_period' — 1 month, 3 months, 6 months, or 1 year
+    - 'Month_to_end_contract' — the months remaining until the contract expires
+    - 'Group_visits' — whether the user takes part in group sessions
+    - 'Avg_class_frequency_total' — average frequency of visits per week over the customer's lifetime
+    - 'Avg_class_frequency_current_month' — average frequency of visits per week over the preceding month
+    - 'Avg_additional_charges_total' — the total amount of money spent on other gym services: cafe, athletic goods, cosmetics, massages, etc.
+
+**Goal:**
+
+Your task is to analyze them and come up with a customer retention strategy.
