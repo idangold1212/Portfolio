@@ -1,7 +1,18 @@
-# My Portfolio
-Data Analysis projects from Practicum 100 program
+# Integrated Project 2
 
-| Project Name                                                                                        | Description         | Libraries Used|
-:-----------------------------------------------------------------------------------------------------|:--------------------|:--------------:|
-| [Data Preprocessing](https://github.com/idangold1212/Portfolio/tree/data-preprocessing)| My project is to prepare a report for a bank’s loan division. I need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan        | pandas
-| [Integrated_project1](https://github.com/idangold1212/Portfolio/tree/intergrated_project1)                                                                                                  |I'm going to preform analysis based on data of games sales available from open source. This will help me identify patterns that determine whether a game succeeds or not, spot potential big winners, and plan advertising campaigns.| Pandas, Matplotlib, Seaborn, Stats, Numpy
+**Brief:**
+
+You work at a startup that sells food products. You need to investigate user behavior for the company's app.
+
+**Data Description:**
+
+Each log entry is a user action or an event.
+- EventName — event name
+- DeviceIDHash — unique user identifier
+- EventTimestamp — event time
+- ExpId — experiment number: 246 and 247 are the control groups, 248 is the test group
+
+**Goal:**
+
+1. Study the event funnel
+2. Study the results of the experiment
