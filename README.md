@@ -1,8 +1,31 @@
-# My Portfolio
-Data Analysis projects from Practicum 100 program
+# Final Project
 
-| Project Name                                                                                        | Description         | Libraries Used|
-:-----------------------------------------------------------------------------------------------------|:--------------------|:--------------:|
-| [Data Preprocessing](https://github.com/idangold1212/Portfolio/tree/data-preprocessing)| My project is to prepare a report for a bank’s loan division. I need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan        | pandas
-| [Integrated_project1](https://github.com/idangold1212/Portfolio/tree/intergrated_project1)                                                                                                  |I'm going to preform analysis based on data of games sales available from open source. This will help me identify patterns that determine whether a game succeeds or not, spot potential big winners, and plan advertising campaigns.| Pandas, Matplotlib, Seaborn, Stats, Numpy
-|[Integrated_Project2](https://github.com/idangold1212/Portfolio/tree/integrated_project2) | I work at a startup that sells food products and I need to investigate user behavior for the company's app. | Pandas, Numpy, Math, Stats, Seaborn, Plotly, Matplotlib
+**Brief:**
+
+E-Commerce: Product Range Analysis
+
+
+**Data Description:**
+
+The dataset contains the transaction history of an online store that sells household goods.
+
+
+InvoiceNo — order identifier
+
+StockCode — item identifier
+
+Description — item name
+
+Quantity
+
+InvoiceDate — order date
+
+UnitPrice — price per item
+
+CustomerID
+
+**Goal:**
+
+- Carry out exploratory data analysis
+- Analyze the product range
+- Formulate and test statistical hypotheses
