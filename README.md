@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio :man_astronaut:
 Data Analysis projects from Practicum 100 program
 
 | Project Name                                                                                        | Description         | Libraries Used|
