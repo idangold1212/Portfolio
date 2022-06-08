@@ -26,3 +26,5 @@ A credit score is used to evaluate the ability of a potential borrower to repay 
 
 Your project is to prepare a report for a bank’s loan division.
 You’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan.
+
+[Back](https://github.com/idangold1212/Portfolio)
