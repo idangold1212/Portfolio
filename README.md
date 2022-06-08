@@ -23,3 +23,5 @@ and historical data on game sales are available from open sources
 **Goal:**
 
 Identify patterns that determine whether a game succeeds or not. This will allow you to spot potential big winners and plan advertising campaigns.
+
+[Back](https://github.com/idangold1212/Portfolio)
