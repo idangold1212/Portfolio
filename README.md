@@ -28,3 +28,5 @@ The costs table (data on marketing expenses):
 - When they start to buy
 - How much money each customer brings
 - When they pay off
+
+[Back](https://github.com/idangold1212/Portfolio)
