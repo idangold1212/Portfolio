@@ -27,3 +27,4 @@ I'm an analyst at Crankshaft List,and I need to study data collected over the la
   * In the condition column, replace string values with a numeric scale
 * Carry out exploratory data analysis
 
+[Back](https://github.com/idangold1212/Portfolio)
